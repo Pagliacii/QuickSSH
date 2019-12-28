@@ -13,7 +13,7 @@ Function KillAgent { gpg-connect-agent killagent /bye }
 Function RunAgent { gpg-connect-agent /bye }
 ```
 
-Reopen your powershell and enter `QuickSSH`, it will work correctly!
+Reopen your Powershell and enter `QuickSSH`, it will work correctly!
 
 1. Connect
 
