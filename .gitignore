@@ -1,0 +1,21 @@
+
+# Created by https://www.gitignore.io/api/code,powershell
+# Edit at https://www.gitignore.io/?templates=code,powershell
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# EditorConfig for VSCode
+.editorconfig
+
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# End of https://www.gitignore.io/api/code,powershell
